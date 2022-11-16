@@ -2,3 +2,5 @@ Zidan Resolusi
 - Memahami JavaScript
 - Mempelajari Webpack Module
 - Mempelajari JavaScript
+- Membuat project sendiri
+- Mempelajari pyton
